@@ -1,0 +1,61 @@
+.language {
+    display: inline;
+  }
+  .heading {
+    font-size: 20px;
+    padding-left: 10px;
+  }
+  #source {
+    width:90% !important;
+    background:white;
+    font-weight: bold;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    height: 50vh;
+    font-size: 18px;
+    resize: vertical;
+    font-size: 15px;
+    margin-right: 10%;
+  }
+  #input {
+    width: 50%;
+    height: 17vh;
+    font-weight: bold;
+    resize: vertical;
+    font-size: 17px;
+    background:white;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 30px;
+
+  }
+  #output {
+    background: black;
+    color:lime;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;   
+    width: 90% !important;
+    height: 50vh;
+    position: relative;
+    top: 7.6%;
+    font-size: 18px;
+    right: 0;
+    resize: vertical;
+    resize: none;
+    margin-right: 10%;
+  }
+  .language {
+    width: 150px;
+  }
+.runButton {
+  margin-left: 5px;
+}
+#ideLabel{
+  margin-left:2px;
+  padding-left:2px;
+  font-weight: bold;
+  font-size: 21pt;
+}
+.judgeLink {
+  color: black;
+}
